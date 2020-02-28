@@ -1,6 +1,6 @@
 
 
-module.exports = function (
+module.exports = async function (
   businessModelObj,
   customer,
   domain,
